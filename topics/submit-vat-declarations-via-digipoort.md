@@ -130,3 +130,4 @@ Good to know:
 - In this version, everyone with the **Digipoort Connector** permission set can use **Mark as Not Delivered**.
 - A declaration with **Status** **Error** or **Warning** cannot be submitted again, because only **Created** declarations can be submitted.
 - **Digipoort Log Entries** is also available on the **Electronic Tax Declarations** page. It opens the calls for the line you are on.
+- **Submit via Digipoort** and **Generate Submission Message** are also available on the **Electronic Tax Declarations** page, for the line you are on. Like on the card, the Digipoort actions are shown only when the line you are on is a VAT declaration and **Active** is turned on; on an ICP declaration they are hidden.
